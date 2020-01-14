@@ -8,6 +8,7 @@ import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 public class testgame extends Game {
 	private SpriteBatch batch;
 	private GameScreen screen;
+	private int x;
 
 	@Override
 	public void create () {
